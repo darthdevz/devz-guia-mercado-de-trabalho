@@ -44,7 +44,7 @@ Contras
 - Não tem nenhum direito: Férias, 13º, seguro desemprego, VT etc
 - Tem que se preocupar com pagamento de impostos, contratação de contador, etc. (Como pagar DAS?)
 
-### Recomendações dos membros
+## Recomendações dos membros
 
 > CLT: soma os benefícios e multiplica por 12 mais o salário vezes 13,333 (13 e férias) PJ é mais ou menos a mesma coisa 
 "ah, mas pj não desconta inss, tem que contar salário líquido" PELO AMOR DA CONTABILIDADE NÃO, tu paga imposto do mesmo jeito ( menos de 8mil mal vale a pena fazer a conta pq é IR igual) e DEVERIA pagar INSS pq você não é um robô e vai precisar aposentar em algum momento da vida
