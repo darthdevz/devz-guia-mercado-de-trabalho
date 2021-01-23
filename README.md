@@ -4,7 +4,7 @@ Guia DevZ-UFRJ de contratação, entrevista, currículos e tudo sobre mercado de
 
 # Índice
 
-- 1 [Tipos de contratação](https://github.com/darthdevz/devz-guia-mercado-de-trabalho/blob/main/README.md#tipos-de-contrata%C3%A7%C3%A3o)
+- 1 [Tipos de contratação](#tipos-de-contrata%C3%A7%C3%A3o)
 - 1.1 [CLT](#clt)
 - 1.2 [PJ](#pj)
 - 1.3 [Recomendações dos membros](#recomenda%C3%A7%C3%B5es-dos-membros)
