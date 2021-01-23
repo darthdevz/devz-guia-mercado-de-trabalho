@@ -1,6 +1,6 @@
-# Guia DevZ-UFRJ Mercado de Trabalho
+# Guia DevZ Mercado de Trabalho
 
-Guia DevZ-UFRJ de contratação, entrevista, currículos e tudo sobre mercado de trabalho.
+Guia DevZ de contratação, entrevista, currículos e tudo sobre mercado de trabalho.
 
 # Índice
 
