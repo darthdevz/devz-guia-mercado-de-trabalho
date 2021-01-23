@@ -1,6 +1,6 @@
 # Guia DevZ Mercado de Trabalho
 
-Guia DevZ de contratação, entrevista, currículos e tudo sobre mercado de trabalho.
+Essa é uma **Prova de conceito** do Guia DevZ de contratação, entrevista, currículos e tudo sobre mercado de trabalho.
 
 # Índice
 
@@ -31,7 +31,7 @@ Contras
 
 ## PJ
 
-Você é contratado como Pessoa Jurídica (empresa). A porcentagem do seu salário 
+Você é contratado como Pessoa Jurídica (empresa). (TODO: porcentagem média/custo absoluto médio que você gasta sendo PJ)
 
 Prós
 
