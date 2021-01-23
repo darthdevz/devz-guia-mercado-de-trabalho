@@ -1,10 +1,18 @@
 # devz-guia-mercado-de-trabalho
 
+# Índice
+
+- 1 ![Tipos de contratação](https://github.com/darthdevz/devz-guia-mercado-de-trabalho/blob/main/README.md#tipos-de-contrata%C3%A7%C3%A3o)
+- 1.1 ![CLT](#clt)
+- 1.2 ![PJ](#pj)
+- 1.3 ![Recomendações dos membros](#recomenda%C3%A7%C3%B5es-dos-membros)
+
+
 # Tipos de contratação
 
 tl;dr CLT dá mais segurança, PJ tem salário líquido maior. Abaixo tem a equivalência CLT vs PJ. É mais ou menos quanto o seu salário CLT deveria valer como PJ, ou vice versa.
 
-$$(CLT_{bruto} + CLT_{benefícios})*13.33 = PJ_{bruto}$$
+(CLT_{bruto} + CLT_{benefícios})*13.33 = PJ_{bruto}
 
 ## CLT
 
