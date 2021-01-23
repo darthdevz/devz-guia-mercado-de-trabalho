@@ -12,9 +12,9 @@ Essa é uma **Prova de conceito** do Guia DevZ de contratação, entrevista, cur
 
 # Tipos de contratação
 
-tl;dr CLT dá mais segurança, PJ tem salário líquido maior. Abaixo tem a equivalência CLT vs PJ. É mais ou menos quanto o seu salário CLT deveria valer como PJ, ou vice versa.
+tl;dr CLT dá mais segurança, PJ tem salário líquido maior. Abaixo tem a equivalência CLT vs PJ, usando como base o 13º + férias do CLT vs apenas os 12 meses do PJ.
 
-(CLT_{bruto} + CLT_{benefícios})*13.33 = PJ_{bruto}
+(CLT_{bruto} + CLT_{benefícios})*13.33 = PJ_{bruto}*12
 
 ## CLT
 
