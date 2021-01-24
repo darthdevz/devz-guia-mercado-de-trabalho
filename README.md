@@ -9,7 +9,7 @@ Essa é uma **Prova de conceito** do Guia DevZ de contratação, entrevista, cur
 - 1.2 [PJ](#pj)
 - 1.3 [Recomendações dos membros](#recomenda%C3%A7%C3%B5es-dos-membros)
 - 2 [Entrevista](#entrevista)
-- 3 Como escolher uma empresa para trabalhar
+- 3 [Como escolher uma empresa para trabalhar](#como-escolher-uma-empresa-para-trabalhar)
 
 
 # Tipos de contratação
