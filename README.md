@@ -12,13 +12,13 @@ Essa é uma **Prova de conceito** do Guia DevZ de contratação, entrevista, cur
 
 # Tipos de contratação
 
-tl;dr CLT dá mais segurança, PJ tem salário líquido maior. Abaixo tem a equivalência CLT vs PJ, usando como base o 13º + férias do CLT vs apenas os 12 meses do PJ.
+tl;dr CLT dá mais segurança, PJ tem salário líquido maior. Abaixo tem a equivalência CLT vs PJ, não levando em conta as despesas da empresa além do salário. A fórmula usa 13º + férias do CLT vs apenas os 12 meses do PJ.
 
 (CLT_{bruto} + CLT_{benefícios})*13.33 = PJ_{bruto}*12
 
 ## CLT
 
-Carteira assinada normal. Cerca de 25% do  seu salário bruto vai para pagamento dos direitos previstos na CLT: Férias, 13º, Seguro desemprego etc
+Carteira assinada normal. Cerca de 25% do  seu salário bruto vai para pagamento dos direitos previstos na CLT: Férias, 13º, Seguro desemprego, licença maternidade etc. Tem [aqui](https://www.rhportal.com.br/artigos-rh/os-direitos-do-trabalhador-pela-clt/) uma lista bem completa dos direitos e impostos da CLT .
 
 Prós
 
@@ -27,7 +27,7 @@ Prós
 
 Contras
 
-- INSS: O INSS é um investimento ruim, do ponto de vista de rendimento mensal, comparado ao tesouro direto, por exemplo. A contribuição na CLT é obrigatória.
+- INSS: O INSS é um investimento ruim do ponto de vista de rendimento mensal, comparado ao tesouro direto, por exemplo. A contribuição na CLT é obrigatória.
 
 ## PJ
 
