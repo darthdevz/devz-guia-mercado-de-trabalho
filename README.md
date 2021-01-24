@@ -57,7 +57,7 @@ Jimi, desenvolvedor sênior
 
 LG, profissional de Segurança
 
-> Eu acredito que PJ é interessante em casos que você não está em situação de vulnerabilidade, ganha muito (a partir de 10k os 25% começam a doer) ou quer trabalhar em uma condição específica que não é possível na CLT, como por exemplo, horista ou fazer um extra em um projeto.
+> Eu acredito que PJ é interessante em casos que você não está em situação de vulnerabilidade, ganha muito (a partir de 10k os 25% começam a doer) ou quer trabalhar em uma condição específica que não é possível na CLT, como por exemplo, horista ou fazer um extra em um projeto. Outro ponto é que dependendo do "meio do caminho" você não se encaixa mais como MEI. Aí tudo muda de figura.
 
 André, Engenheiro de Dados
 
