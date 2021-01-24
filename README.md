@@ -59,6 +59,6 @@ LG, o rato de Segurança
 
 André, Engenheiro de Dados
 
-> Eu fujo de PJ pq acho muita burocraria pra você lidar. Confesso que não sei tanto dos pormenores. Mas já vi muita gente reclamando que no fim acabava ganhando pouco no PJ e se matava de trabalhar
+> e na contratação CLT a empresa paga mais ou menos o dobro do seu salário contando imposto e desconto, pra vcs terem noção.. então se vcs aceitam PJ pelo 13.3, quem tá ganhando eh só a empresa
 
-Gabrielly, Desenvolvedora
+Lucian, Desenvolvedor
