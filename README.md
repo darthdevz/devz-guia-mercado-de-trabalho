@@ -65,6 +65,6 @@ André, Engenheiro de Dados
 
 Lucian, Desenvolvedor
 
-# 2. Entrevista
+# Entrevista
 
-# 3. Como escolher uma empresa para trabalhar
+# Como escolher uma empresa para trabalhar
