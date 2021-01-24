@@ -67,4 +67,12 @@ Lucian, Desenvolvedor
 
 # Entrevista
 
+> Odeio processos seletivos longos
+
+Jimi, desenvolvedor sênior.
+
 # Como escolher uma empresa para trabalhar
+
+> Existe algo que eu não tinha ideia que existia quando comecei a trabalhar, e que pode ser útil as pessoas saberem sobre: Employee Stock Ownership Plan (ESOP). São programas que algumas empresas tem que permite você comprar (ou ganhar) ações da empresa. 
+
+André, Engenheiro de Dados
