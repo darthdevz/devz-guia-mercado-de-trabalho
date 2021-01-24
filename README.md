@@ -4,10 +4,12 @@ Essa é uma **Prova de conceito** do Guia DevZ de contratação, entrevista, cur
 
 # Índice
 
-#### 1 [Tipos de contratação](#tipos-de-contrata%C3%A7%C3%A3o)
-#### 1.1 [CLT](#clt)
-#### 1.2 [PJ](#pj)
-#### 1.3 [Recomendações dos membros](#recomenda%C3%A7%C3%B5es-dos-membros)
+- 1 [Tipos de contratação](#tipos-de-contrata%C3%A7%C3%A3o)
+- 1.1 [CLT](#clt)
+- 1.2 [PJ](#pj)
+- 1.3 [Recomendações dos membros](#recomenda%C3%A7%C3%B5es-dos-membros)
+- 2 [Entrevista](#entrevista)
+- 3 Como escolher uma empresa para trabalhar
 
 
 # Tipos de contratação
@@ -49,11 +51,11 @@ Contras
 > CLT: soma os benefícios e multiplica por 12 mais o salário vezes 13,333 (13 e férias) PJ é mais ou menos a mesma coisa 
 "ah, mas pj não desconta inss, tem que contar salário líquido" PELO AMOR DA CONTABILIDADE NÃO, tu paga imposto do mesmo jeito ( menos de 8mil mal vale a pena fazer a conta pq é IR igual) e DEVERIA pagar INSS pq você não é um robô e vai precisar aposentar em algum momento da vida
 
-Jimi, desenvolvedor HTML sênior
+Jimi, desenvolvedor sênior
 
 > Não sou eu quem vai dizer o que vc deve ou não fazer com seu dinheiro, mas a previdência no Brasil vai de mal a pior. Quanto menos vc depender dela melhor. Agora como e onde guardar/investir são outros papos
 
-LG, o rato de Segurança
+LG, profissional de Segurança
 
 > Eu acredito que PJ é interessante em casos que você não está em situação de vulnerabilidade, ganha muito (a partir de 10k os 25% começam a doer) ou quer trabalhar em uma condição específica que não é possível na CLT, como por exemplo, horista ou fazer um extra em um projeto.
 
@@ -62,3 +64,7 @@ André, Engenheiro de Dados
 > e na contratação CLT a empresa paga mais ou menos o dobro do seu salário contando imposto e desconto, pra vcs terem noção.. então se vcs aceitam PJ pelo 13.3, quem tá ganhando eh só a empresa
 
 Lucian, Desenvolvedor
+
+# 2. Entrevista
+
+# 3. Como escolher uma empresa para trabalhar
