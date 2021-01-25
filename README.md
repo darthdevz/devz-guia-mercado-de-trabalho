@@ -10,6 +10,7 @@ Essa é uma **Prova de conceito** do Guia DevZ de contratação, entrevista, cur
 - 1.3 [Recomendações dos membros](#recomenda%C3%A7%C3%B5es-dos-membros)
 - 2 [Entrevista](#entrevista)
 - 3 [Como escolher uma empresa para trabalhar](#como-escolher-uma-empresa-para-trabalhar)
+- 4 [Lista não exaustiva de boas empresas do RJ](#boas-empresas-rj)
 
 
 # Tipos de contratação
@@ -76,3 +77,14 @@ Jimi, desenvolvedor sênior.
 > Existe algo que eu não tinha ideia que existia quando comecei a trabalhar, e que pode ser útil as pessoas saberem sobre: Employee Stock Ownership Plan (ESOP). São programas que algumas empresas tem que permite você comprar (ou ganhar) ações da empresa. 
 
 André, Engenheiro de Dados
+
+# <a name="boas-empresas-rj"></a> Lista não exaustiva de boas empresas do RJ
+
+> * VTEX - Botafogo, RJ - http://careers.vtex.com/
+>    * AWS + Produto 24/7 com necessidade de alta escalabilidade + liberdade de inovação
+> * Olx - Flamengo, RJ - https://olxbrasil.recruiterbox.com/
+>    * AWS + Produto 24/7 com necessidade de alta escalabilidade (não trabalhei lá então não sei sobre liberdade, mas imagino que tenha)
+> * Zwift - Leblon, RJ - https://www.zwift.com/careers
+>    * AWS + Produto 24/7 com necessidade de alta escalabilidade (não trabalhei lá então não sei sobre liberdade, mas imagino que tenha), Empresa gringa
+
+Lucian, Desenvolvedor
