@@ -109,6 +109,4 @@ André, Engenheiro de Dados
 
 > Overleaf tem templates de currículo tbm em LaTeX: https://www.overleaf.com/gallery/tagged/cv
 
-
-
-
+Ericson, Desenvolvedor
