@@ -83,7 +83,6 @@ Jimi, desenvolvedor sênior.
 > * Estudar para Behavioural Interviews (pra níveis mais avançados ou Big Techs, mas não custa dar uma olhada):  
 >     * Dan Croitor https://www.youtube.com/channel/UCw0uQHve23oMWgQcTTpgQsQ  
 
-
 Lucian, Desenvolvedor
 
 # Como escolher uma empresa para trabalhar
