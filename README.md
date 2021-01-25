@@ -11,6 +11,7 @@ Essa é uma **Prova de conceito** do Guia DevZ de contratação, entrevista, cur
 - 2 [Entrevista](#entrevista)
 - 3 [Como escolher uma empresa para trabalhar](#como-escolher-uma-empresa-para-trabalhar)
 - 4 [Lista não exaustiva de boas empresas do RJ](#boas-empresas-rj)
+- 5 [Currículo](#curriculo)
 
 
 # Tipos de contratação
@@ -99,3 +100,15 @@ André, Engenheiro de Dados
 >    * AWS + Produto 24/7 com necessidade de alta escalabilidade (não trabalhei lá então não sei sobre liberdade, mas imagino que tenha), Empresa gringa
 
 Lucian, Desenvolvedor
+
+# <a name="curriculo"></a> Currículo
+
+> fui dar uma pesquisada aqui e achei 2 sites pra construir currículo de graça. Infelizmente nenhum dos 2 importa direito os dados do LinkedIn: https://resume.io/ https://www.visualcv.com/
+
+André, Engenheiro de Dados
+
+> Overleaf tem templates de currículo tbm em LaTeX: https://www.overleaf.com/gallery/tagged/cv
+
+
+
+
