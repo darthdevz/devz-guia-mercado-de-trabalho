@@ -72,6 +72,19 @@ Lucian, Desenvolvedor
 
 Jimi, desenvolvedor sênior.
 
+> * Lista de perguntas a se fazer em um processo seletivo:  
+>     * https://github.com/viraptor/reverse-interview   
+>     * https://github.com/lkostrowski/job-interview-questions-to-ask-companies  
+> * Guia de estudo para System Design:   
+>     * https://github.com/donnemartin/system-design-primer  
+> * Sites para estudar Coding Interviews:  
+>     * https://leetcode.com/  
+>     * https://www.hackerrank.com/  
+> * Estudar para Behavioural Interviews (pra níveis mais avançados ou Big Techs, mas não custa dar uma olhada):  
+>     * Dan Croitor https://www.youtube.com/channel/UCw0uQHve23oMWgQcTTpgQsQ  
+
+Lucian, Desenvolvedor
+
 # Como escolher uma empresa para trabalhar
 
 > Existe algo que eu não tinha ideia que existia quando comecei a trabalhar, e que pode ser útil as pessoas saberem sobre: Employee Stock Ownership Plan (ESOP). São programas que algumas empresas tem que permite você comprar (ou ganhar) ações da empresa. 
