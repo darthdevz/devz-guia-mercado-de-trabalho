@@ -86,9 +86,15 @@ Jimi, desenvolvedor sênior.
 
 # Como escolher uma empresa para trabalhar
 
+## ESOPS
+
 > Existe algo que eu não tinha ideia que existia quando comecei a trabalhar, e que pode ser útil as pessoas saberem sobre: Employee Stock Ownership Plan (ESOP). São programas que algumas empresas tem que permite você comprar (ou ganhar) ações da empresa. 
 
 André, Engenheiro de Dados
+
+> n sei se vcs tão ligados [nesse site teamblind](https://www.teamblind.com/post/So-Is-everyone-at-AirBnB-a-millionaire-now-LTmzZrED) esse daí é só um post que ficou mto comum lá quando o AirBnB abriu na bolsa.. os funcionarios já tinham acoes, e dai o IPO deu certo, todo mundo ficou rico.
+
+Lucian, Desenvolvedor
 
 # <a name="boas-empresas-rj"></a> Lista não exaustiva de boas empresas do RJ
 
