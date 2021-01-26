@@ -100,7 +100,7 @@ Lucian, Desenvolvedor
 
 > * VTEX - Botafogo, RJ - http://careers.vtex.com/
 >    * AWS + Produto 24/7 com necessidade de alta escalabilidade + liberdade de inovação
-> * Olx - Flamengo, RJ - https://olxbrasil.recruiterbox.com/
+> * Olx - Flamengo, RJ - https://careers.smartrecruiters.com/OLXBrasil
 >    * AWS + Produto 24/7 com necessidade de alta escalabilidade (não trabalhei lá então não sei sobre liberdade, mas imagino que tenha)
 > * Zwift - Leblon, RJ - https://www.zwift.com/careers
 >    * AWS + Produto 24/7 com necessidade de alta escalabilidade (não trabalhei lá então não sei sobre liberdade, mas imagino que tenha), Empresa gringa
