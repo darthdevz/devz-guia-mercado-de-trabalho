@@ -103,9 +103,9 @@ Lucian, Desenvolvedor
 > * Olx - Flamengo, RJ - https://careers.smartrecruiters.com/OLXBrasil
 >    * AWS + Produto 24/7 com necessidade de alta escalabilidade (não trabalhei lá então não sei sobre liberdade, mas imagino que tenha)
 > * Zwift - Leblon, RJ - https://www.zwift.com/careers
->    * AWS + Produto 24/7 com necessidade de alta escalabilidade (não trabalhei lá então não sei sobre liberdade, mas imagino que tenha), Headquarters em Long Beach, CA
+>    * AWS + Produto 24/7 com necessidade de alta escalabilidade (não trabalhei lá então não sei sobre liberdade, mas imagino que tenha). Headquarters em Long Beach, CA
 > * Carta - Flamengo, RJ - https://carta.com/careers/
->    * Empresa líder em controle de internal Stock plans (pré-IPO) com headquarters em SF - CA, com escritório no RJ
+>    * Empresa líder em controle de internal Stock plans (pré-IPO). Headquarters em SF - CA, com escritório no RJ
 
 
 Lucian, Desenvolvedor
